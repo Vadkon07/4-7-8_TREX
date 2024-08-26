@@ -17,7 +17,7 @@ def on_press(key):
     global i
     try:
         if key.char == 'x':
-            print("ESC pressed, your statistics file was saved and soon app will be closed, but before you have to finish to do this loop. Please, wait...")
+            print("X pressed, your statistics file was saved and soon app will be closed, but before you have to finish to do this loop. Please, wait...")
             total_time = (count * loop_duration) / 60
             finished = datetime.now()
             finished_f = finished.strftime("%d/%m/%Y %H:%M:%S")
@@ -28,7 +28,7 @@ def on_press(key):
         pass
 
 clear_screen()
-print("*Click 'ESC' (FOR NOW USE 'x'!!!) to close app\n\n")
+print("*Click 'x' to close app\n\n")
 print("Are you ready?")
 time.sleep(1)
 print("3")
