@@ -27,10 +27,8 @@ Easy, right? With our app you can do it much more focused, and also this app wil
 
 ## TO-DO LIST
 - [ ] **Add menu with next functions:** show statistics (will print all statistics from 'sessions.txt' file + print different stats as total time, average time, etc.
-- [ ] **ESC key:** I (Vadim Kondratov) can't use 'esc' button on my laptop because this button is broken on him (it's okay for 12 years old laptop which works 8h+ hours every day), and in code instead I setted 'x' as a close application button. Please, instead of 'x' set 'esc' hotkey and send me a photo or video on my email.
 - [ ] **Operating in menus:** It will be a good idea to add possibilty to fully operate in this app without need to print a number and then clclick ENTER. So, we have to add possibility to take input from user and use him in our menus (the same as you click 'x' to stop to meditate and close this app.
 - [ ] **Share this app:** We have to build a big enough community, which well help us with development and sharing of this app. Maybe then wi will start to share this app in packages as AUR.
-- [ ] **Buy a nice keyboard for me:** So, it's more a question for me than for you, but I have to buy a keyboard ahaha. My laptop has maybe 6-7 damaged keys and they cause some problems during development. What do you think about Logitech K120? If I will save enough money from donations, I think that I will buy this model, but what do YOU think about this keyboard? Send me your opinion on vadkonbeats@gmail.com
 
 ## LICENSE
 This project is licensed under the MIT License.
