@@ -78,5 +78,3 @@ with open('sessions.txt', 'a') as sessions:
         count += 1
 
     listener.join()
-
-    print(f'Meditation is finished! STARTED AT: {started_f}. FINISHED AT: {finished_f} LOOPS: {count}. TIME: {total_time:.2f} MINUTES\n')
